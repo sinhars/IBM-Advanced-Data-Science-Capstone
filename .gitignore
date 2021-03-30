@@ -127,3 +127,36 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/test.csv
+data/train.csv
+.ibm_adv/pyvenv.cfg
+.ibm_adv/Scripts/activate
+.ibm_adv/Scripts/activate.bat
+.ibm_adv/Scripts/Activate.ps1
+.ibm_adv/Scripts/deactivate.bat
+.ibm_adv/Scripts/easy_install-3.9.exe
+.ibm_adv/Scripts/easy_install.exe
+.ibm_adv/Scripts/f2py.exe
+.ibm_adv/Scripts/pip.exe
+.ibm_adv/Scripts/pip3.9.exe
+.ibm_adv/Scripts/pip3.exe
+.ibm_adv/Scripts/python.exe
+.ibm_adv/Scripts/pythonw.exe
+.vscode/settings.json
+.ibm_adv/Scripts/iptest.exe
+.ibm_adv/Scripts/iptest3.exe
+.ibm_adv/Scripts/ipython.exe
+.ibm_adv/Scripts/ipython3.exe
+.ibm_adv/Scripts/jupyter-kernel.exe
+.ibm_adv/Scripts/jupyter-kernelspec.exe
+.ibm_adv/Scripts/jupyter-migrate.exe
+.ibm_adv/Scripts/jupyter-run.exe
+.ibm_adv/Scripts/jupyter-troubleshoot.exe
+.ibm_adv/Scripts/jupyter.exe
+.ibm_adv/Scripts/pygmentize.exe
+.ibm_adv/Scripts/pywin32_postinstall.py
+.ibm_adv/Scripts/pywin32_testall.py
+.ibm_adv/share/jupyter/kernels/python3/kernel.json
+.ibm_adv/share/jupyter/kernels/python3/logo-32x32.png
+.ibm_adv/share/jupyter/kernels/python3/logo-64x64.png
+.ibm_adv/share/man/man1/ipython.1.gz
