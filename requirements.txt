@@ -1,2 +1,6 @@
 pandas
 scipy
+scikit-learn
+matplotlib
+pyspark
+pyarrow

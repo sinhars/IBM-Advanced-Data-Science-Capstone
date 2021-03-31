@@ -160,3 +160,8 @@ data/train.csv
 .ibm_adv/share/jupyter/kernels/python3/logo-32x32.png
 .ibm_adv/share/jupyter/kernels/python3/logo-64x64.png
 .ibm_adv/share/man/man1/ipython.1.gz
+.ibm_adv/Scripts/numba
+.ibm_adv/Scripts/plasma_store.exe
+.ibm_adv/Scripts/pycc
+data/test.parquet
+data/train.parquet
