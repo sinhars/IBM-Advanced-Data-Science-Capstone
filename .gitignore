@@ -165,3 +165,8 @@ data/train.csv
 .ibm_adv/Scripts/pycc
 data/test.parquet
 data/train.parquet
+.ibm_adv/Scripts/nltk-script.py
+.ibm_adv/Scripts/nltk.exe
+.ibm_adv/Scripts/tqdm.exe
+.ibm_adv/Scripts/wordcloud_cli-script.py
+.ibm_adv/Scripts/wordcloud_cli.exe

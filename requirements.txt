@@ -1,6 +1,9 @@
+findspark
+matplotlib
+nltk
 pandas
+pyarrow
 scipy
 scikit-learn
-matplotlib
-pyspark
-pyarrow
+seaborn
+wordcloud
