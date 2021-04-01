@@ -1,4 +1,5 @@
 findspark
+langdetect
 matplotlib
 nltk
 pandas
