@@ -170,3 +170,17 @@ data/train.parquet
 .ibm_adv/Scripts/tqdm.exe
 .ibm_adv/Scripts/wordcloud_cli-script.py
 .ibm_adv/Scripts/wordcloud_cli.exe
+data/trainClean.parquet/_SUCCESS
+data/trainClean.parquet/._SUCCESS.crc
+data/trainClean.parquet/.part-00000-9d088b4f-b713-40d5-b7e7-ad16509f3d7c-c000.snappy.parquet.crc
+data/trainClean.parquet/.part-00003-9d088b4f-b713-40d5-b7e7-ad16509f3d7c-c000.snappy.parquet.crc
+data/trainClean.parquet/part-00000-9d088b4f-b713-40d5-b7e7-ad16509f3d7c-c000.snappy.parquet
+data/trainClean.parquet/part-00003-9d088b4f-b713-40d5-b7e7-ad16509f3d7c-c000.snappy.parquet
+data/sample/countVect/X_test.npz
+data/sample/countVect/X_train.npz
+data/sample/countVect/y_test.csv
+data/sample/countVect/y_train.csv
+data/sample/tfVect/X_test.npz
+data/sample/tfVect/X_train.npz
+data/sample/tfVect/y_test.csv
+data/sample/tfVect/y_train.csv
