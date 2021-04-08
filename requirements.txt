@@ -1,4 +1,5 @@
 findspark
+keras
 langdetect
 matplotlib
 nltk
@@ -7,4 +8,5 @@ pyarrow
 scipy
 scikit-learn
 seaborn
+tensorflow
 wordcloud
