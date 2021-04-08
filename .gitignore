@@ -127,8 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-data/test.csv
-data/train.csv
+
 .ibm_adv/pyvenv.cfg
 .ibm_adv/Scripts/activate
 .ibm_adv/Scripts/activate.bat
@@ -163,15 +162,11 @@ data/train.csv
 .ibm_adv/Scripts/numba
 .ibm_adv/Scripts/plasma_store.exe
 .ibm_adv/Scripts/pycc
-data/test.parquet
-data/train.parquet
 .ibm_adv/Scripts/nltk-script.py
 .ibm_adv/Scripts/nltk.exe
 .ibm_adv/Scripts/tqdm.exe
 .ibm_adv/Scripts/wordcloud_cli-script.py
 .ibm_adv/Scripts/wordcloud_cli.exe
-data/raw/test.csv
-data/raw/train.csv
 .ibm_adv/Scripts/chardetect.exe
 .ibm_adv/Scripts/estimator_ckpt_converter.exe
 .ibm_adv/Scripts/google-oauthlib-tool.exe
@@ -190,6 +185,11 @@ data/raw/train.csv
 .ibm_adv/Scripts/toco_from_protos.exe
 .ibm_adv/Scripts/toco.exe
 .ibm_adv/Scripts/wheel.exe
+
+data/test.parquet
+data/train.parquet
+data/raw/test.csv
+data/raw/train.csv
 data/20210408_141321/sample/X_test.npz
 data/20210408_141321/sample/X_train.npz
 data/20210408_141321/sample/y_test.csv
