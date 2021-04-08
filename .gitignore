@@ -184,3 +184,17 @@ data/sample/tfVect/X_test.npz
 data/sample/tfVect/X_train.npz
 data/sample/tfVect/y_test.csv
 data/sample/tfVect/y_train.csv
+data/trainData.parquet/_SUCCESS
+data/trainData.parquet/._SUCCESS.crc
+data/trainData.parquet/.part-00000-01cffa6f-e81b-4b0f-918c-4a61120af18d-c000.snappy.parquet.crc
+data/trainData.parquet/.part-00001-01cffa6f-e81b-4b0f-918c-4a61120af18d-c000.snappy.parquet.crc
+data/trainData.parquet/.part-00002-01cffa6f-e81b-4b0f-918c-4a61120af18d-c000.snappy.parquet.crc
+data/trainData.parquet/.part-00003-01cffa6f-e81b-4b0f-918c-4a61120af18d-c000.snappy.parquet.crc
+data/trainData.parquet/.part-00004-01cffa6f-e81b-4b0f-918c-4a61120af18d-c000.snappy.parquet.crc
+data/trainData.parquet/.part-00005-01cffa6f-e81b-4b0f-918c-4a61120af18d-c000.snappy.parquet.crc
+data/trainData.parquet/part-00000-01cffa6f-e81b-4b0f-918c-4a61120af18d-c000.snappy.parquet
+data/trainData.parquet/part-00001-01cffa6f-e81b-4b0f-918c-4a61120af18d-c000.snappy.parquet
+data/trainData.parquet/part-00002-01cffa6f-e81b-4b0f-918c-4a61120af18d-c000.snappy.parquet
+data/trainData.parquet/part-00003-01cffa6f-e81b-4b0f-918c-4a61120af18d-c000.snappy.parquet
+data/trainData.parquet/part-00004-01cffa6f-e81b-4b0f-918c-4a61120af18d-c000.snappy.parquet
+data/trainData.parquet/part-00005-01cffa6f-e81b-4b0f-918c-4a61120af18d-c000.snappy.parquet
