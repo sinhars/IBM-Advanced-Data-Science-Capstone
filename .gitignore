@@ -1,3 +1,5 @@
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -185,26 +187,3 @@ dmypy.json
 .ibm_adv/Scripts/toco_from_protos.exe
 .ibm_adv/Scripts/toco.exe
 .ibm_adv/Scripts/wheel.exe
-
-data/test.parquet
-data/train.parquet
-data/raw/test.csv
-data/raw/train.csv
-data/20210408_141321/sample/X_test.npz
-data/20210408_141321/sample/X_train.npz
-data/20210408_141321/sample/y_test.csv
-data/20210408_141321/sample/y_train.csv
-data/20210408_141321/trainData.parquet/_SUCCESS
-data/20210408_141321/trainData.parquet/._SUCCESS.crc
-data/20210408_141321/trainData.parquet/.part-00000-a476d0c3-6bc4-4f3c-8e46-b8c81e6f9ec3-c000.snappy.parquet.crc
-data/20210408_141321/trainData.parquet/.part-00001-a476d0c3-6bc4-4f3c-8e46-b8c81e6f9ec3-c000.snappy.parquet.crc
-data/20210408_141321/trainData.parquet/.part-00002-a476d0c3-6bc4-4f3c-8e46-b8c81e6f9ec3-c000.snappy.parquet.crc
-data/20210408_141321/trainData.parquet/.part-00003-a476d0c3-6bc4-4f3c-8e46-b8c81e6f9ec3-c000.snappy.parquet.crc
-data/20210408_141321/trainData.parquet/.part-00004-a476d0c3-6bc4-4f3c-8e46-b8c81e6f9ec3-c000.snappy.parquet.crc
-data/20210408_141321/trainData.parquet/.part-00005-a476d0c3-6bc4-4f3c-8e46-b8c81e6f9ec3-c000.snappy.parquet.crc
-data/20210408_141321/trainData.parquet/part-00000-a476d0c3-6bc4-4f3c-8e46-b8c81e6f9ec3-c000.snappy.parquet
-data/20210408_141321/trainData.parquet/part-00001-a476d0c3-6bc4-4f3c-8e46-b8c81e6f9ec3-c000.snappy.parquet
-data/20210408_141321/trainData.parquet/part-00002-a476d0c3-6bc4-4f3c-8e46-b8c81e6f9ec3-c000.snappy.parquet
-data/20210408_141321/trainData.parquet/part-00003-a476d0c3-6bc4-4f3c-8e46-b8c81e6f9ec3-c000.snappy.parquet
-data/20210408_141321/trainData.parquet/part-00004-a476d0c3-6bc4-4f3c-8e46-b8c81e6f9ec3-c000.snappy.parquet
-data/20210408_141321/trainData.parquet/part-00005-a476d0c3-6bc4-4f3c-8e46-b8c81e6f9ec3-c000.snappy.parquet
