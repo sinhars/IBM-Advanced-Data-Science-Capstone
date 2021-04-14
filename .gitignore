@@ -187,3 +187,5 @@ dmypy.json
 .ibm_adv/Scripts/toco_from_protos.exe
 .ibm_adv/Scripts/toco.exe
 .ibm_adv/Scripts/wheel.exe
+.ibm_adv/Scripts/autopep8.exe
+.ibm_adv/Scripts/pycodestyle.exe
